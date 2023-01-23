@@ -17,7 +17,7 @@ It is a server which can do crud operation
 - /updateUser/id and put method can edit user of that specific id
 - /deleteUser/id and delete method can delete the user of that id.
 
-#Things learned
+# Things learned
 - basics of node and express
 - SQL QUERY
 
